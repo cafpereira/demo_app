@@ -1,3 +1,9 @@
+local:
+  adapter: sqlite3
+  database: db/development.sqlite3
+  pool: 5
+  timeout: 2000
+
 # SQLite version 3.x
 #   gem install sqlite3
 #
